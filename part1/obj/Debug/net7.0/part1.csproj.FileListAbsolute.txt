@@ -1,0 +1,14 @@
+E:\GB\C#_praktikum\part1\bin\Debug\net7.0\part1.exe
+E:\GB\C#_praktikum\part1\bin\Debug\net7.0\part1.deps.json
+E:\GB\C#_praktikum\part1\bin\Debug\net7.0\part1.runtimeconfig.json
+E:\GB\C#_praktikum\part1\bin\Debug\net7.0\part1.dll
+E:\GB\C#_praktikum\part1\bin\Debug\net7.0\part1.pdb
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.AssemblyInfoInputs.cache
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.AssemblyInfo.cs
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.csproj.CoreCompileInputs.cache
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.dll
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\refint\part1.dll
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.pdb
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\part1.genruntimeconfig.cache
+E:\GB\C#_praktikum\part1\obj\Debug\net7.0\ref\part1.dll
