@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\GB\\C#_praktikum\\part1\\part1.csproj": {}
+    "E:\\GB\\C#_praktikum\\part1\\part1.csproj": {}
   },
   "projects": {
-    "e:\\GB\\C#_praktikum\\part1\\part1.csproj": {
+    "E:\\GB\\C#_praktikum\\part1\\part1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GB\\C#_praktikum\\part1\\part1.csproj",
+        "projectUniqueName": "E:\\GB\\C#_praktikum\\part1\\part1.csproj",
         "projectName": "part1",
-        "projectPath": "e:\\GB\\C#_praktikum\\part1\\part1.csproj",
+        "projectPath": "E:\\GB\\C#_praktikum\\part1\\part1.csproj",
         "packagesPath": "C:\\Users\\uncuk\\.nuget\\packages\\",
-        "outputPath": "e:\\GB\\C#_praktikum\\part1\\obj\\",
+        "outputPath": "E:\\GB\\C#_praktikum\\part1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uncuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
