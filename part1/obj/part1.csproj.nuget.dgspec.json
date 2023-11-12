@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\GB\\C#_praktikum\\part1\\part1.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "E:\\GB\\C#_praktikum\\part1\\part1.csproj",
         "packagesPath": "C:\\Users\\uncuk\\.nuget\\packages\\",
         "outputPath": "E:\\GB\\C#_praktikum\\part1\\obj\\",
+=======
+    "D:\\gb\\C-_Praktikum\\part1\\part1.csproj": {}
+  },
+  "projects": {
+    "D:\\gb\\C-_Praktikum\\part1\\part1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\gb\\C-_Praktikum\\part1\\part1.csproj",
+        "projectName": "part1",
+        "projectPath": "D:\\gb\\C-_Praktikum\\part1\\part1.csproj",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+        "outputPath": "D:\\gb\\C-_Praktikum\\part1\\obj\\",
+>>>>>>> 4451a5dd2766f012cae622559c366bb843e4b094
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\uncuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +62,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.11, 7.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.11, 7.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.11, 7.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.11, 7.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5\\RuntimeIdentifierGraph.json"
         }
       }
     }
